@@ -8,6 +8,8 @@ o	Collects Docker container logs (/var/lib/docker/containers:/var/lib/docker/con
 o	Uses the configuration I shared first to define what logs to collect
 o	Ships logs to Logstash at port 5044
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/bd975597-7f9c-4c94-bded-8706d48c1c75" />
+
 3.	Processing Layer (Logstash)
 o	Receives logs from Filebeat on port 5044
 o	Processes logs using the pipeline configuration I shared second
