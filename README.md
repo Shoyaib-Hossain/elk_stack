@@ -31,5 +31,4 @@ The Docker Compose file creates a complete environment where:
 •	Security is configured during initial setup
 •	All services have appropriate resource limits and configurations
 
-This setup allows I to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations I shared for Filebeat and Logstash within a secure, containerized environment.
-
+This setup allows to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations for Filebeat and Logstash.
