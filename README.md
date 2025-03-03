@@ -1,16 +1,16 @@
 Complete ELK Stack Logging Infrastructure
 
-The Docker Compose file you shared works together with your Filebeat and Logstash configurations to create a comprehensive log collection, processing, and visualization system. Here's how all the pieces fit together:
+The Docker Compose file I shared works together with Ir Filebeat and Logstash configurations to create a comprehensive log collection, processing, and visualization system. Here's how all the pieces fit together:
 Data Flow Architecture
 1.	Data Collection (Filebeat)
 o	Deploys with access to host logs (/var/log:/var/log:ro)
 o	Collects Docker container logs (/var/lib/docker/containers:/var/lib/docker/containers:ro)
-o	Uses the configuration you shared first to define what logs to collect
+o	Uses the configuration I shared first to define what logs to collect
 o	Ships logs to Logstash at port 5044
 
 2.	Processing Layer (Logstash)
 o	Receives logs from Filebeat on port 5044
-o	Processes logs using the pipeline configuration you shared second
+o	Processes logs using the pipeline configuration I shared second
 o	Parses timestamps, adds metadata, and structures logs
 o	Authenticates to Elasticsearch using the logstash_internal user
 
@@ -31,5 +31,5 @@ The Docker Compose file creates a complete environment where:
 •	Security is configured during initial setup
 •	All services have appropriate resource limits and configurations
 
-This setup allows you to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations you shared for Filebeat and Logstash within a secure, containerized environment.
+This setup allows I to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations I shared for Filebeat and Logstash within a secure, containerized environment.
 
