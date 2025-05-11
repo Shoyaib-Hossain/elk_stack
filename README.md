@@ -34,3 +34,9 @@ The Docker Compose file creates a complete environment where:
 •	All services have appropriate resource limits and configurations
 
 This setup allows to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations for Filebeat and Logstash.
+
+
+SIEM Architecture with Data Integration, AI Detection, and Explainable AI
+This architecture provides a comprehensive approach to modern security monitoring by integrating traditional SIEM capabilities, advanced AI detection mechanisms, and explainable AI components (Ongoing)
+
+https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2011-05-2025%20at%2022.06.jpeg
