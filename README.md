@@ -41,6 +41,6 @@ This screenshot is from Kibana, part of the Elastic Stack (ELK: Elasticsearch, L
 There is a huge Research Gap when it comes to Explainable AI (Under Consideration )
 
 SIEM Architecture with Data Integration, AI Detection, and Explainable AI
-This architecture provides a comprehensive approach to modern security monitoring by integrating traditional SIEM capabilities, advanced AI detection mechanisms, and explainable AI components (Ongoing)
+This architecture provides a comprehensive approach to modern security monitoring by integrating traditional SIEM capabilities, advanced AI detection mechanisms, and explainable AI components 
 
 <img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2011-05-2025%20at%2022.06.jpeg" />
