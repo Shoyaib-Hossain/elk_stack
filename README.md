@@ -40,4 +40,4 @@ Research Gap
 SIEM Architecture with Data Integration, AI Detection, and Explainable AI
 This architecture provides a comprehensive approach to modern security monitoring by integrating traditional SIEM capabilities, advanced AI detection mechanisms, and explainable AI components (Ongoing)
 
-https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2011-05-2025%20at%2022.06.jpeg
+<img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2011-05-2025%20at%2022.06.jpeg" />
