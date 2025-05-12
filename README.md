@@ -26,6 +26,7 @@ o	Connects to Elasticsearch as the kibana_system user
 o	Provides dashboards and visualisations for the logs
 
 Deployment Architecture 
+
 <img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2012.37.jpeg" />
 
 The Docker Compose file creates a complete environment where A dedicated network (elastic) connects all services. This setup allows to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations for Filebeat and Logstash.
