@@ -1,6 +1,6 @@
 Complete ELK Stack Logging Infrastructure
 
-The Docker Compose file I shared works together with Ir Filebeat and Logstash configurations to create a comprehensive log collection, processing, and visualization system. Here's how all the pieces fit together:
+The Docker Compose file I shared works together with Ir Filebeat and Logstash configurations to create a comprehensive log collection, processing, and visualisation system. Here's how all the pieces fit together:
 Data Flow Architecture
 1.	Data Collection (Filebeat)
 o	Deploys with access to host logs (/var/log:/var/log:ro)
@@ -35,6 +35,7 @@ The Docker Compose file creates a complete environment where:
 
 This setup allows to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations for Filebeat and Logstash.
 
+Research Gap
 
 SIEM Architecture with Data Integration, AI Detection, and Explainable AI
 This architecture provides a comprehensive approach to modern security monitoring by integrating traditional SIEM capabilities, advanced AI detection mechanisms, and explainable AI components (Ongoing)
