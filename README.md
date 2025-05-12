@@ -1,6 +1,6 @@
 Complete ELK Stack Logging Infrastructure
 
-The Docker Compose file I shared works together with Ir Filebeat and Logstash configurations to create a comprehensive log collection, processing, and visualisation system. Here's how all the pieces fit together:
+The Docker Compose file I shared works together with the Filebeat and Logstash configurations to create a comprehensive log collection, processing, and visualisation system. Here's how all the pieces fit together:
 Data Flow Architecture
 1.	Data Collection (Filebeat)
 o	Deploys with access to host logs (/var/log:/var/log:ro)
@@ -21,23 +21,24 @@ o	Stores processed logs in daily indices (logstash-YYYY.MM.DD)
 o	Provides search functionality
 o	Manages security with dedicated users and roles
 
-5.	Visualization Layer (Kibana)
+5.	Visualisation Layer (Kibana)
 o	Connects to Elasticsearch as the kibana_system user
-o	Provides dashboards and visualizations for the logs
+o	Provides dashboards and visualisations for the logs
 
-Deployment Architecture
+Deployment Architecture (Ongoing)
 
 <img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2012.37.jpeg" />
 
-The Docker Compose file creates a complete environment where:
-•	A dedicated network (elastic) connects all services
-•	Persistent storage preserves Elasticsearch data (elasticsearch-data volume)
-•	Security is configured during initial setup
-•	All services have appropriate resource limits and configurations
+The Docker Compose file creates a complete environment where A dedicated network (elastic) connects all services. This setup allows to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations for Filebeat and Logstash.
 
-This setup allows to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations for Filebeat and Logstash.
 
-Research Gap
+On the localhost:5601 
+
+<img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2012.46.jpeg" />
+
+This screenshot is from Kibana, part of the Elastic Stack (ELK: Elasticsearch, Logstash, Kibana), specifically from the Discover tab, which is used to explore and analyse log data stored in Elasticsearch.
+
+There is a huge Research Gap when it comes to Explainable AI (Under Consideration )
 
 SIEM Architecture with Data Integration, AI Detection, and Explainable AI
 This architecture provides a comprehensive approach to modern security monitoring by integrating traditional SIEM capabilities, advanced AI detection mechanisms, and explainable AI components (Ongoing)
