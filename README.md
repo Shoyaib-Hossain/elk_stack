@@ -47,3 +47,11 @@ This architecture provides a comprehensive approach to modern security monitorin
 
 Transparency via Explainability Layer (XAI)
 
+<img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2019.49.jpeg" />
+
+THE TRUST GAUGE IN MODERN SECURITY
+
+In today's high-stakes cybersecurity landscape, the question isn't just whether your AI detected a threat—it's how certain the system is about what it found. Enter confidence scores: the digital equivalent of a security analyst's gut feeling, translated into hard numbers that teams can use.
+
+In cybersecurity, overwhelming the team with too many alerts — especially incorrect ones — can lead to alert fatigue. By incorporating confidence scores, organizations can tune alert thresholds or automate actions only for events that surpass a certain level of certainty, improving efficiency and response accuracy.
+
