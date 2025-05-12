@@ -27,6 +27,8 @@ o	Provides dashboards and visualizations for the logs
 
 Deployment Architecture
 
+<img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2012.37.jpeg" />
+
 The Docker Compose file creates a complete environment where:
 •	A dedicated network (elastic) connects all services
 •	Persistent storage preserves Elasticsearch data (elasticsearch-data volume)
