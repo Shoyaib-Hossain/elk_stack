@@ -1,4 +1,4 @@
-Complete ELK Stack Logging Infrastructure
+ELK Stack Infrastructure (Under Development )
 
 The Docker Compose file I shared works together with the Filebeat and Logstash configurations to create a comprehensive log collection, processing, and visualisation system. Here's how all the pieces fit together:
 Data Flow Architecture
@@ -25,8 +25,7 @@ o	Manages security with dedicated users and roles
 o	Connects to Elasticsearch as the kibana_system user
 o	Provides dashboards and visualisations for the logs
 
-Deployment Architecture (Ongoing)
-
+Deployment Architecture 
 <img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2012.37.jpeg" />
 
 The Docker Compose file creates a complete environment where A dedicated network (elastic) connects all services. This setup allows to deploy the entire logging stack with a single command, creating a cohesive system that implements the configurations for Filebeat and Logstash.
