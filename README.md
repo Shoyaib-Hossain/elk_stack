@@ -38,7 +38,7 @@ On the localhost:5601
 
 This screenshot is from Kibana, part of the Elastic Stack (ELK: Elasticsearch, Logstash, Kibana), specifically from the Discover tab, which is used to explore and analyse log data stored in Elasticsearch.
 
-There is a huge Research Gap when it comes to Explainable AI (Under Consideration )
+There is a huge Research Gap when it comes to Explainable AI 
 
 SIEM Architecture with Data Integration, AI Detection, and Explainable AI
 This architecture provides a comprehensive approach to modern security monitoring by integrating traditional SIEM capabilities, advanced AI detection mechanisms, and explainable AI components 
