@@ -74,7 +74,6 @@ Graph Neural Networks
 
 Model relationships between entities, mapping connections between systems and analysing potential attack paths through complex networks
 
-Security Operations
 
 Integrating these technologies produces enhanced security insights with fewer false positives, supports proactive threat hunting, enables automated responses, and powers predictive analytics. This transforms security from reactive monitoring to proactive defence, helping teams anticipate and prevent threats before exploitation occurs.
 
