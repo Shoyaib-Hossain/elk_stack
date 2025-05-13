@@ -70,7 +70,9 @@ LSTM Neural Networks
 
 Analyse temporal patterns and sequences, detecting anomalies in user behaviours and attack progressions over time
 
-Graph Neural Networks: Model relationships between entities, mapping connections between systems and analysing potential attack paths through complex networks
+Graph Neural Networks
+
+Model relationships between entities, mapping connections between systems and analysing potential attack paths through complex networks
 
 Security Operations
 
