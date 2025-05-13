@@ -60,15 +60,19 @@ SIEM with AI Components (LSTM & GNN) Architecture
 Security operations begin with comprehensive data gathering from logs, network traffic, endpoints, and cloud services. Collection agents capture and normalise this diverse information into standardised formats suitable for analysis, creating a consistent foundation for security intelligence.
 
 SIEM System
+
 The SIEM platform is the central security monitoring hub, providing real-time visibility, event correlation, and data storage. Modern SIEMs extend beyond log management to deliver compliance reporting and prepare optimised data for AI analysis, bridging traditional security monitoring with advanced analytics.
 
 AI Components
 The architecture incorporates two specialised neural network types:
 
-LSTM Neural Networks: Analyse temporal patterns and sequences, detecting anomalies in user behaviours and attack progressions over time
+LSTM Neural Networks 
+
+Analyse temporal patterns and sequences, detecting anomalies in user behaviours and attack progressions over time
 Graph Neural Networks: Model relationships between entities, mapping connections between systems and analysing potential attack paths through complex networks
 
 Security Operations
-The integration of these technologies produces enhanced security insights with fewer false positives, supports proactive threat hunting, enables automated responses, and powers predictive analytics. This transforms security from reactive monitoring to proactive defence, helping teams anticipate and prevent threats before exploitation occurs.
+
+Integrating these technologies produces enhanced security insights with fewer false positives, supports proactive threat hunting, enables automated responses, and powers predictive analytics. This transforms security from reactive monitoring to proactive defence, helping teams anticipate and prevent threats before exploitation occurs.
 
 <img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2013-05-2025%20at%2009.59.jpeg" />
