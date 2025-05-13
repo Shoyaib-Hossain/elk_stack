@@ -53,5 +53,21 @@ THE TRUST GAUGE IN MODERN SECURITY
 
 In today's high-stakes cybersecurity landscape, the question isn't just whether your AI detected a threat—it's how certain the system is about what it found. Enter confidence scores: the digital equivalent of a security analyst's gut feeling, translated into hard numbers that teams can use.
 
-In cybersecurity, overwhelming the team with too many alerts — especially incorrect ones — can lead to alert fatigue. By incorporating confidence scores, organizations can tune alert thresholds or automate actions only for events that surpass a certain level of certainty, improving efficiency and response accuracy.
+In cybersecurity, overwhelming the team with too many alerts, especially incorrect ones, can lead to alert fatigue. By incorporating confidence scores, organisations can tune alert thresholds or automate actions only for events that surpass a certain level of certainty, improving efficiency and response accuracy.
 
+SIEM with AI Components (LSTM & GNN) Architecture
+The diagram illustrates the integrated workflow of modern security architecture combining SIEM systems with advanced AI components:
+Data Sources & Collection
+Security operations begin with comprehensive data gathering from logs, network traffic, endpoints, and cloud services. Collection agents capture and normalize this diverse information into standardized formats suitable for analysis, creating a consistent foundation for security intelligence.
+SIEM System
+The SIEM platform functions as the central hub for security monitoring, providing real-time visibility, event correlation, and data storage. Modern SIEMs extend beyond log management to deliver compliance reporting and prepare optimized data for AI analysis, bridging traditional security monitoring with advanced analytics.
+AI Components
+The architecture incorporates two specialized neural network types:
+
+LSTM Neural Networks: Analyze temporal patterns and sequences, detecting anomalies in user behaviors and attack progressions over time
+Graph Neural Networks: Model relationships between entities, mapping connections between systems and analyzing potential attack paths through complex networks
+
+Security Operations
+The integration of these technologies produces enhanced security insights with fewer false positives, supports proactive threat hunting, enables automated responses, and powers predictive analytics. This transforms security from reactive monitoring to proactive defense, helping teams anticipate and prevent threats before exploitation occurs.
+
+<img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2013-05-2025%20at%2009.59.jpeg" />
