@@ -47,7 +47,7 @@ This architecture provides a comprehensive approach to modern security monitorin
 
 Transparency via Explainability Layer (XAI)
 
-<img width="252" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2019.55.jpeg" />
+<img width="352" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2019.55.jpeg" />
 
 THE TRUST GAUGE IN MODERN SECURITY
 
