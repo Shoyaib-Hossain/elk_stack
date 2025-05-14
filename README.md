@@ -38,6 +38,37 @@ On the localhost:5601
 
 This screenshot is from Kibana, part of the Elastic Stack (ELK: Elasticsearch, Logstash, Kibana), specifically from the Discover tab, which is used to explore and analyse log data stored in Elasticsearch.
 
+ELK + Machine Learning Integration
+
+A particularly powerful approach would be combining ELK Stack with ML tools:
+
+Elasticsearch Machine Learning features:
+
+Anomaly detection on time series data
+
+Outlier detection for identifying unusual patterns
+
+Classification jobs for categorising attack signatures
+
+
+External ML pipeline integration:
+
+Export data from Elasticsearch to your ML frameworks (TensorFlow/PyTorch)
+
+Import ML results back to Elasticsearch for visualisation
+
+Use Elasticsearch as a feature store for ML models
+
+
+Custom ML dashboards in Kibana:
+
+Visualise model predictions
+
+Compare detection accuracy across different ML approaches
+
+Monitor false positive/negative rates
+
+
 There is a huge Research Gap when it comes to Explainable AI 
 
 SIEM Architecture with Data Integration, AI Detection, and Explainable AI
