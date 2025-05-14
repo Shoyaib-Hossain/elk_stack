@@ -42,6 +42,7 @@ ELK + Machine Learning Integration
 
 A particularly powerful approach would be combining ELK Stack with ML tools:
 
+
 Elasticsearch Machine Learning features:
 
 Anomaly detection on time series data
@@ -51,6 +52,7 @@ Outlier detection for identifying unusual patterns
 Classification jobs for categorising attack signatures
 
 
+
 External ML pipeline integration:
 
 Export data from Elasticsearch to your ML frameworks (TensorFlow/PyTorch)
@@ -58,6 +60,7 @@ Export data from Elasticsearch to your ML frameworks (TensorFlow/PyTorch)
 Import ML results back to Elasticsearch for visualisation
 
 Use Elasticsearch as a feature store for ML models
+
 
 
 Custom ML dashboards in Kibana:
