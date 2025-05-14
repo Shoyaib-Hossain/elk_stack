@@ -55,7 +55,11 @@ In today's high-stakes cybersecurity landscape, the question isn't just whether 
 
 In cybersecurity, overwhelming the team with too many alerts, especially incorrect ones, can lead to alert fatigue. By incorporating confidence scores, organisations can tune alert thresholds or automate actions only for events that surpass a certain level of certainty, improving efficiency and response accuracy.
 
-Security Without Sharing: The Federated Defense Revolution
+
+
+Security Without Sharing: The Federated Defence Revolution
+
+<img width="252" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2014-05-2025%20at%2008.25.jpeg" />
 
 Federated Graph Neural Networks for Privacy-Preserving Collaborative Threat Detection Using ELK Stack
 
