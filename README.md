@@ -55,6 +55,21 @@ In today's high-stakes cybersecurity landscape, the question isn't just whether 
 
 In cybersecurity, overwhelming the team with too many alerts, especially incorrect ones, can lead to alert fatigue. By incorporating confidence scores, organisations can tune alert thresholds or automate actions only for events that surpass a certain level of certainty, improving efficiency and response accuracy.
 
+Security Without Sharing: The Federated Defense Revolution
+
+Federated Graph Neural Networks for Privacy-Preserving Collaborative Threat Detection Using ELK Stack
+
+This approach:
+
+Combines three frontiers: FL + GNN + security
+
+Addresses real-world constraints: privacy, scalability, and label scarcity
+
+Offers broad scope for contributions in theory, implementation, and evaluation
+
+
+
+
 SIEM with AI Components (LSTM & GNN) Architecture
 
 Security operations begin with comprehensive data gathering from logs, network traffic, endpoints, and cloud services. Collection agents capture and normalise this diverse information into standardised formats suitable for analysis, creating a consistent foundation for security intelligence.
