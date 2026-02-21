@@ -1,4 +1,4 @@
-ELK Stack Infrastructure (Under Development )
+ELK Stack Infrastructure
 
 The Docker Compose file I shared works together with the Filebeat and Logstash configurations to create a comprehensive log collection, processing, and visualisation system. Here's how all the pieces fit together:
 Data Flow Architecture
