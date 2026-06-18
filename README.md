@@ -37,5 +37,3 @@ On the localhost:5601
 <img width="452" alt="image" src="https://github.com/Shoyaib-Hossain/elk_stack/blob/main/Image%2012-05-2025%20at%2012.46.jpeg" />
 
 This screenshot is from Kibana, part of the Elastic Stack (ELK: Elasticsearch, Logstash, Kibana), specifically from the Discover tab, which is used to explore and analyse log data stored in Elasticsearch.
-
-tack/blob/main/Image%2013-05-2025%20at%2009.59.jpeg" />
