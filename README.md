@@ -84,7 +84,7 @@ The image above displays the **Discover** tab, the primary workspace in Kibana f
 *This documentation describes the ELK SIEM Stack Infrastructure. It is intended for development, testing, and educational purposes. Production deployments require additional hardening, monitoring, and compliance measures (e.g., GDPR, SOC 2, ISO 27001).*
 
 **© 2025 — ELK SIEM Stack Project**  
-Maintained by Shoyaib Hossain. All rights reserved.
+Maintained by Md Shoyaib Hossain. All rights reserved.
 
 ---
 
